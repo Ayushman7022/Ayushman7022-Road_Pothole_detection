@@ -48,4 +48,4 @@ Accuracy Achieved: XX% (fill this)
 ![Sample Detection 1](assets/demo1.png)
 ![Sample Detection 2](assets/demo2.png)
 
-![Demo Video](Video.mp4)
+![Demo Video](Video1.mp4)
