@@ -45,7 +45,7 @@ Loss Function: Binary cross-entropy
 Accuracy Achieved: XX% (fill this)
 
 
-![Sample Detection 1](assets/demo1.png)
-![Sample Detection 2](assets/demo2.png)
+![Sample Detection 1](crack2.jpeg)
+![Sample Detection 2](manhole1.jpeg)
 
 ![Demo Video](Video1.mp4)
