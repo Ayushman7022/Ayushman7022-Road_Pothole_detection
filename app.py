@@ -2,6 +2,7 @@ import streamlit as st
 import cv2
 import torch
 import time
+import os
 import numpy as np
 import requests
 from PIL import Image
@@ -31,7 +32,7 @@ st.sidebar.success(f"🖥️ Using device: **{device.upper()}**")
 # 🌍 Static Location (via Geocode API)
 # ------------------------------------------------------------
 GEOCODE_URL = "https://geocode.maps.co/search"
-API_KEY = "6910ea65768a7691320498ytfd0eca0"
+API_KEY = os.getenv("API_KEY")
 
 @st.cache_data
 def get_lat_lon(address="Jalandhar"):
