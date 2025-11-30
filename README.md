@@ -35,14 +35,10 @@ Output visualization
 🧠 Model Details
 
 Model Type: YOLO 
-
 Input Size: 224×224 or as per your model
 
-Optimizer: Adam / RMSProp
 
-Loss Function: Binary cross-entropy
 
-Accuracy Achieved: XX% (fill this)
 
 
 ![Sample Detection 1](crack2.jpeg)
