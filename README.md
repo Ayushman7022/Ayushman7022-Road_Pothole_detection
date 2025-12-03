@@ -4,7 +4,7 @@ A complete end-to-end system that detects potholes from images or live video fee
 
 📌 Overview
 
-This project uses Convolutional Neural Networks (CNN) / YOLO / custom model (your choice) to detect potholes in real-time or from uploaded images.
+This project uses Convolutional Neural Networks  YOLOv11 to detect potholes in real-time or from uploaded images.
 
 ✔️ Image-based detection
 ✔️ Real-time video detection (webcam / mobile)
