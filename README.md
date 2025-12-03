@@ -12,11 +12,6 @@ This project uses Convolutional Neural Networks (CNN) / YOLO / custom model (you
 ✔️ Model training + evaluation
 ✔️ Easy deployment with Python/Colab
 
-🏗️ System Architecture
-
-Place your architecture image here
-
-![System Architecture](assets/architecture.png)
 
 
 Workflow:
